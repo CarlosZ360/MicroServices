@@ -1,5 +1,0 @@
-### TEST
-GET http://localhost:7070/customer/test
-
-### List all customers
-GET http://localhost:7070/customer/list
